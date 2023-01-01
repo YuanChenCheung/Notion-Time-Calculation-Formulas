@@ -2,6 +2,12 @@
 
 Formulas for Time Calculation of notion.so
 
+# Preview
+
+![image](https://github.com/YuanChenCheung/Notion-Time-Calculation-Formulas/blob/main/Usage%20-%20Wish%20List.png)
+![image](https://github.com/YuanChenCheung/Notion-Time-Calculation-Formulas/blob/main/Usage%20-%20In%20Progress.png)
+![image](https://github.com/YuanChenCheung/Notion-Time-Calculation-Formulas/blob/main/Usage%20-%20Archived.jpg)
+
 # Usage
 
 1. Add a database "block" to your notion.
