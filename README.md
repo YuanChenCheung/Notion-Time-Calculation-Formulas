@@ -12,4 +12,6 @@ Formulas for Time Calculation of notion.so
 6. Select a "Status" and set the start date. You can also set the end date to it.
 7. Finished and ENJOY :)
 
+# License
+
 The MIT License (MIT)
